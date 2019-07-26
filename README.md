@@ -1,5 +1,4 @@
-# Sandwich Club Project Starter Code
-
+# Sandwich Club Project 
 ## Project Overview
 In this project, you use the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
@@ -7,10 +6,10 @@ show the details of each sandwich once it is selected.
 ## HOW TO RUN
 
 ### when you open the app.
-<img src='screenshots/img1.png'  width="400px"  height="500px">
+<img src='Screenshots/img1.png'  width="400px"  height="500px">
 
 ### then you select a sandwich.
-<img src='screenshots/img2.png'  width="400px" height="500px">
+<img src='Screenshots/img2.png'  width="400px" height="500px">
 
 
 ## Implementation
